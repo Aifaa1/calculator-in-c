@@ -37,3 +37,19 @@ int main(int argc, char *argv[]) {
     printf("Result: %.2lf\n", result);
     return 0;
 }
+
+
+
+output: 
+
+
+C:\Users\FARDHOSA>cd documents
+
+C:\Users\FARDHOSA\Documents>calculator + 2 2
+Result: 4.00
+
+C:\Users\FARDHOSA\Documents>calculator * 2 2
+Result: 4.00
+
+C:\Users\FARDHOSA\Documents>calculator * 2 8
+Result: 16.00
